@@ -9,7 +9,7 @@ const Home = () => {
                 <h1 className="text-white font-display text-8xl ml-32 hover:text-yellow-400 cursor-pointer">PRINGLES</h1>
 
                     <img  className=" pl-20 mt-10"    
-                    src="https://assets.stickpng.com/images/5954b973deaf2c03413be348.png" alt="Landing Page Image"/> 
+                    src="https://assets.stickpng.com/thumbs/5954b973deaf2c03413be348.png" alt="Landing Page Image"/> 
                 </div>
                 <div className="">
                     <img  className="w-2/3 "
