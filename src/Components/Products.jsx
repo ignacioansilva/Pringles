@@ -58,7 +58,7 @@ const Products = () => {
       className=" flex flex-col-2 bg-white  max-w-3xl lg:h-full  h-1/2   
         justify-items-center rounded-xl border border-black my-6 mx-3 relative">
 
-            <img className="w-96" src="https://onixsuper.com/wp-content/uploads/2021/08/38000184956.jpg" alt="" />
+            <img className="w-80" src="https://onixsuper.com/wp-content/uploads/2021/08/38000184956.jpg" alt="" />
             <h1 className="m-2 font-medium text-2xl pt-16 right-[40%] bottom-0">Pringles Queso</h1>
             <br />
             <button className="inline-block text-xl bottom-0">Ver Más</button>

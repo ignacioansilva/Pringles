@@ -5,6 +5,7 @@ import About from "./Components/About";
 import Contacto from "./Components/Contacto";
 import Juego from "./Components/Juego";
 import ProductsDetail from "./Components/ProductsDetail";
+import Merch from "./Components/Merch"
 
 import { Route, Routes } from "react-router-dom";
 
@@ -16,6 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/products" element={<Products />} />
+        <Route path="/merchandising" element={<Merch />} />
         <Route path="/products/detail" element={<ProductsDetail />} />
         <Route path="/about" element={<About />} />
         <Route path="/contacto" element={<Contacto />} />
